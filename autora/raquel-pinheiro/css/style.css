@@ -102,10 +102,10 @@ li {
     height: 500px;
     background: linear-gradient(rgba(255, 0, 255, 0.2),
                                 rgba(255, 0, 255, 0.2)),
-                url(../img/banner-autora.jpg);
+                url(../img/banner-ceu.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
     display: flex;
     align-items: flex-end;
     text-align: center;
